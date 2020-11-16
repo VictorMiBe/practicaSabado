@@ -28,11 +28,11 @@
 }
 
 .screen::-webkit-scrollbar {
-  height: 3px;
+  height: 4px;
 }
 
 .screen::-webkit-scrollbar-thumb{
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(0, 0, 0, .4);
   border-radius: 3px;
 }
 .row {
